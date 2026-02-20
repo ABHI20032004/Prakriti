@@ -8,8 +8,8 @@ import App from './App';
 const theme = createTheme({
   palette: {
     primary: {
-      main: '#2E7D32', // Green for nature/Ayurveda
-      light: '#4CAF50',
+      main: '#080d30', // Green for nature/Ayurveda
+      light: '#29779f',
       dark: '#1B5E20',
     },
     secondary: {
